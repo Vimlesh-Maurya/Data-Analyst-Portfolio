@@ -31,7 +31,7 @@ Skills: data cleaning, data analysis, descriptive statistics, central limit theo
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
 Results: Review of the global and regional video games markets, data-based business recommendations.
 
-![DA][https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/0_9lcVt7ZxDiHgm1LW.png]
+![DA](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/0_9lcVt7ZxDiHgm1LW.png "Video Games Sales")
 
 
 ### A Mobile Game Data Analysis
@@ -51,7 +51,7 @@ Skills: evaluating A/B-test design, data cleaning, data anomalies detection, che
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.
 Results: A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve.
 
-![image](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/1_vJULpN2xQfyVsvTVW-JSkA.png)
+![image](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/1_vJULpN2xQfyVsvTVW-JSkA.png "Sample image")
 
 ### Online Advertising Campaign Analysis
 #### Code: [ya_ad_int_solution.ipynb]
