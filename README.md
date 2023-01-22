@@ -104,13 +104,13 @@ Status: Completed 11 projects, studied 116 topics from the track to practice my 
 ## Certificates
 I believe that the best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result:) So here is a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 
-* SQL certificate (Feb 2023) (Coursera)
-* Intermediate Machine Learning (Feb 2023) (Ajay Patel Lab)
-* Python (Feb 2023) (Ajay Patel Lab)
-* Data Science (March 2023) (Ajay Patel Lab)
-* Data Analyst Specialization (Jul 2021) (karpov.course)
-* MS Excel
-* Power Bi
+* [SQL certificate](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/) (Feb 2023) (Coursera)
+* [Intermediate Machine Learning](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/) (Feb 2023) (Ajay Patel Lab)
+* [Python](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/)(Feb 2023) (Ajay Patel Lab)
+* [Data Science](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/) (March 2023) (Ajay Patel Lab)
+* [Data Analyst Specialization](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/) (Jul 2021) (karpov.course)
+* [MS Excel](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/)
+* [Power Bi](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/)
 
 ## Contacts
 * LinkedIn:(https://www.linkedin.com/in/vimleshmaurya/)
