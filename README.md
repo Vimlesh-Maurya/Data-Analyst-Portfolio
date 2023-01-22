@@ -1,5 +1,5 @@
 ## Table of contents
-* [About]()
+* [About](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/#About-me)
 * [Portfolio Projects]()
   * [Video Games Sales Analysis]()
   * [A Mobile Game Data Analysis]()
