@@ -1,20 +1,19 @@
 ## Table of contents
-* About
-* Portfolio Projects.  
-  * Video Games Sales Analysis  
-  * A Mobile Game Data Analysis  
-  * A Landing Page Design Experiment  
-  * Online Advertising Campaign Analysis  
-  * Airbnb Listings Analytics  
-* Study Projects  
-  * ML course
-  * Data Analyst Specialization
-  * Data Analysis Course Tinkoff-MSU
-  * Learning SQL
-  * Learning Python
-
-* Certificates  
-* Contacts
+* [About]()
+* [Portfolio Projects]()
+  * [Video Games Sales Analysis]()
+  * [A Mobile Game Data Analysis]()
+  * [A Landing Page Design Experiment]()
+  * [Online Advertising Campaign Analysis]()
+  * [Airbnb Listings Analytics]()
+* [Study Projects]()
+  * [ML course]()
+  * [Data Analyst Specialization]()
+  * [Data Analysis Course Tinkoff-MSU]()
+  * [Learning SQL]()
+  * [Learning Python]()
+* [Certificates]()
+* [Contacts ]()
 
 ## About me
 
