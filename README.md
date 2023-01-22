@@ -31,7 +31,7 @@ Skills: data cleaning, data analysis, descriptive statistics, central limit theo
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
 Results: Review of the global and regional video games markets, data-based business recommendations.
 
-![DA](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/0_9lcVt7ZxDiHgm1LW.png)
+![DA][https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/0_9lcVt7ZxDiHgm1LW.png]
 
 
 ### A Mobile Game Data Analysis
