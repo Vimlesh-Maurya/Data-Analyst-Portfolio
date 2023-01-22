@@ -1,8 +1,5 @@
-# portfolio
-
-Vimlesh Maurya is a data analyst and digital Marketer based in India. His self-professed goal is to help businesses make the right data-driven decisions.
-
+# Data Analyst Portfolio
 <dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
+  <dt>About me</dt>
+  <dd>Vimlesh Maurya is a data analyst and digital Marketer based in India. His self-professed goal is to help businesses make the right data-driven decisions.</dd>
 </dl>
