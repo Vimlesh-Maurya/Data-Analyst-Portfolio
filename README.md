@@ -73,16 +73,11 @@ Results: created an analytical dashboard to support daily activities of a compan
 
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
 
-### sklearn ml course
+### ML course
 Description: Machine Learning in Python with scikit-learn by France Université Numérique. The course official page.
 This 3 month course is an in-depth introduction to predictive modeling with scikit-learn. Step-by-step and didactic lessons introduce the fundamental methodological and software tools of machine learning, and is as such a stepping stone to more advanced challenges in artificial intelligence, text mining, or data science.
 Repository: Check the repository having jupyter notebooks with the course lectures and tasks' solutions ---> go to repo..
 Status: Completed in May 2022 (please, check the certificates section below).
-
-### Kaggle 30 Days of ML
-Description: 30 days of Machine Learning by Kaggle. The course rapidly covers the most essential skills needed to get hands dirty with data and quickly learn how to build machine learning models.
-Repository: Check the repository having jupyter notebooks with the course tasks' solutions ---> go to repo..
-Status: Completed in August 2021 (please, check the certificates section below).
 
 ### Data Analyst Specialization
 Description: This is a 5 month specialization by karpov.courses. The specialization includes Python, API, Git, Airflow, SQL, Statistics, A/B testing, Visualization, Product development and Product Analytics modules.
@@ -100,20 +95,10 @@ Description: SQL queries for tasks from codecademy, sql-ex.ru, stepik, sql modul
 Repository: Check the repository having 400+ SQL queries ---> go to repo..
 Status: Some of the courses are still in progress.
 
-### Python Developer Track
+### Learning Python
 Description: 25 projects, 154 hours, 300 topics python developer track from JetBrains Academy
 Repository: Check the repository having 11 completed projects including: Hangman, Tic-Tac-Toe, Rock-Paper-Scissors games; Matrix calculator, own-coded Regex engine, To-Do list, etc. ---> go to repo..
 Status: Completed 11 projects, studied 116 topics from the track to practice my python skills. Will revert back to the track later.
-
-### Computer Science Career Path
-Description: 20 weeks Computer Science Career Path from Codecademy. The career path includes following topics: command line commands, git, python 3, OOP, linear data structures, complex data structures, asymptotic notation, recursion, sorting algorithms, search algorithms, graph search algorithms.
-Repository: Although the career path has been already completed the repository is still under development, having only 9 listed projects including: words statistics calculator, English nouns pluralizer, English verbs conjugation, censor engine, etc. ---> go to repo..
-Status: Completed in July 2020 (please, check the certificates section below).
-
-### Google Python Class
-Description: This is a free class for people with a little bit of programming experience who want to learn Python by Google. Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.
-Repository: Containing 10 cool projects including: mimicking random text generator, baby-names popularity counter (based on data from The Social Security administration US), etc. ---> go to repo..
-Status: Completed in November 2020.
 
 
 ## Certificates
