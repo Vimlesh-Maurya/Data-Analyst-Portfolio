@@ -1,17 +1,9 @@
-# Data Analyst Portfolio
-
-## About me
-
-  Vimlesh Maurya is a data analyst and digital Marketer based in India. His self-professed goal is to help businesses make the right data-driven decisions.
+## Data Analyst Portfolio
 
 ## Table of contents
-* <ol>
-  <li>[About]()</li>
-* [Portfolio Projects]().
-
-***
-
-..* [Video Games Sales Analysis]()
+* About
+* Portfolio Projects.
+..* Video Games Sales Analysis
 ..* A Mobile Game Data Analysis
 ..* A Landing Page Design Experiment
 ..* Online Advertising Campaign Analysis
@@ -29,7 +21,10 @@ Side Projects
 Tableau Vizzes
 Certificates
 Contacts
-</ol>
+
+## About me
+
+  Vimlesh Maurya is a data analyst and digital Marketer based in India. His self-professed goal is to help businesses make the right data-driven decisions.
 
 ## Portfolio Projects
 
@@ -43,7 +38,7 @@ Skills: data cleaning, data analysis, descriptive statistics, central limit theo
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
 Results: Review of the global and regional video games markets, data-based business recommendations.
 
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1](https://miro.medium.com/max/1400/0*9lcVt7ZxDiHgm1LW.png)")
+![DA](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/0_9lcVt7ZxDiHgm1LW.png)
 
 
 ### A Mobile Game Data Analysis
