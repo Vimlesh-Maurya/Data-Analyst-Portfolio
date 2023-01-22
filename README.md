@@ -52,6 +52,8 @@ Skills: evaluating A/B-test design, data cleaning, data anomalies detection, che
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Statsmodels Stats.
 Results: A/B test design analysis, conclusion on rolling the new landing page design to production, recommendations on how to improve.
 
+![image](https://github.com/Vimlesh-Maurya/Data-Analyst-Portfolio/blob/main/1_vJULpN2xQfyVsvTVW-JSkA.png)
+
 ### Online Advertising Campaign Analysis
 #### Code: [ya_ad_int_solution.ipynb]
 Presentation: ya_ad_int_slides_upd.pdf
