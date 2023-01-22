@@ -1,5 +1,3 @@
-## Data Analyst Portfolio
-
 ## Table of contents
 * About
 * Portfolio Projects.  
